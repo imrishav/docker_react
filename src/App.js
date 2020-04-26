@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React From Rishav Sinha.sssd...
+          Learn React From Rssishav Sinha.sssd...sss
         </a>
       </header>
     </div>
